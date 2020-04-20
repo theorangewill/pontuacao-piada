@@ -12,7 +12,7 @@ Someone: Today, my son asked "Can I have a book mark?" and I burst into tears. 1
 You mention this tweet as:
 \@PROFILE_TO_NOTIFY 10
 
-of
+or
 \@PROFILE_TO_NOTIFY -1000
 
 This script must detect new masters (those who give points) and new players (those who receive points)
