@@ -1,2 +1,4 @@
 /log
 /private
+*.score
+lastmention
