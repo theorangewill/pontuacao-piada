@@ -6,14 +6,15 @@ To use, you only need to mention the profile you want to notify about these scor
 
 For example:
 
-Someone: Today, my son asked "Can I have a book mark?" and I burst into tears. 11 years old and he still doesn't know my name is Brian.
+Someone: 
+> Today, my son asked "Can I have a book mark?" and I burst into tears. 11 years old and he still doesn't know my name is Brian.
 
 
 You mention this tweet as:
-\@PROFILE_TO_NOTIFY 10
+> \@PROFILE_TO_NOTIFY 10
 
 or
-\@PROFILE_TO_NOTIFY -1000
+> \@PROFILE_TO_NOTIFY -1000
 
 This script must detect new masters (those who give points) and new players (those who receive points)
 
